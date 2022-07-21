@@ -6,4 +6,4 @@ Estiven Gutiérrez Pérez - C.C: 1035833811 - Ingeniería Industrial
 Enlace de datos del proyecto: 
 https://www.kaggle.com/competitions/champs-scalar-coupling/data
 
-Hola ! 
+
