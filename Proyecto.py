@@ -1,3 +1,14 @@
+!pip install -U -q kaggle
+!mkdir -p ~/.kaggle
+from google.colab import files
+files.upload()
+
+!cp kaggle.json ~/.kaggle/
+
+!kaggle competitions download -c champs-scalar-coupling
+
+!unzip champs-scalar-coupling
+
 #Primero importamos las librerias
 ####################################################
 import numpy as np 
