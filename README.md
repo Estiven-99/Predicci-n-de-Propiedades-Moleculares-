@@ -7,7 +7,7 @@ Enlace de datos del proyecto:
 https://www.kaggle.com/competitions/champs-scalar-coupling/data
 
 
-Enlace de video Entrega 2:
+Enlace de video Entrega 2: https://www.youtube.com/watch?v=Y42l4DkmlSM
 
 
 
