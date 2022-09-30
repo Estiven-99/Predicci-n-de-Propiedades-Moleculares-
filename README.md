@@ -11,6 +11,6 @@ Para descargar los datos descargamos los datos de esta pagina, creamos una carpe
 Videos:
 
 Enlace de los videos: https://www.youtube.com/watch?v=Y42l4DkmlSM
-
+Enlace Video Entrega Final: https://youtu.be/j6xEVW11zIo
 
 
